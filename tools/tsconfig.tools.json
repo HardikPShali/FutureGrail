@@ -1,12 +1,3 @@
-{
-  "extends": "../tsconfig.base.json",
-  "compilerOptions": {
-    "outDir": "../dist/out-tsc/tools",
-    "rootDir": ".",
-    "module": "commonjs",
-    "target": "es5",
-    "types": ["node"],
-    "importHelpers": false
-  },
-  "include": ["**/*.ts"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:45f5456ebfb8cd8e1e57f75f7e80394a2a590ae50b54d19028617ec3c9325c93
+size 251
